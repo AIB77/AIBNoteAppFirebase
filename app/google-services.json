@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404702512543",
+    "project_id": "aibnoteappfirebase",
+    "storage_bucket": "aibnoteappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404702512543:android:041ae3674de75dea3b69aa",
+        "android_client_info": {
+          "package_name": "com.example.aibnoteappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404702512543-5eo15hoso52f78sop1e4ifjohkfdt50e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzitobdVvLC9Y1K_ISy-LUmHWS1CX73mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404702512543-5eo15hoso52f78sop1e4ifjohkfdt50e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
